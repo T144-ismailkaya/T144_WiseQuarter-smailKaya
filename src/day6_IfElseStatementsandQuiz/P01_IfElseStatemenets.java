@@ -1,4 +1,4 @@
-package day6_IfElseStatements;
+package day6_IfElseStatementsandQuiz;
 
 import java.util.Scanner;
 
